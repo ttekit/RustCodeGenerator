@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Og2Dh466vwejFXVeZMLRWJ6lFZF6OCRmo35kGDr6EYsAaEeleKBom1ncmbBMrACjY3O191ekQi3dfO5LhRjcw==",
+  "success": true,
+  "projectFilePath": "E:\\RustCodeGeneratorForms\\RustCodeGeneratorForms\\RustCodeGeneratorForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tekit\\.nuget\\packages\\system.codedom\\8.0.0-preview.3.23174.8\\system.codedom.8.0.0-preview.3.23174.8.nupkg.sha512",
+    "C:\\Users\\tekit\\.nuget\\packages\\system.management\\8.0.0-preview.3.23174.8\\system.management.8.0.0-preview.3.23174.8.nupkg.sha512"
+  ],
+  "logs": []
+}
